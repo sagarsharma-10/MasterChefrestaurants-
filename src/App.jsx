@@ -2,7 +2,7 @@ import Dishes from "./Data";
 // import FoodItems from "./Components/FoodItems";
 import CartItems from "./Components/CartItems";
 // import  from "./Components/Navlink";
-import { Route, Routes } from "react-router";
+import { Route, Routes } from "react-router-dom";
 // import Section1 from "./Components/Section1";
 import Home from "./Components/Home";
 import Navlink from "./Components/Navlink";

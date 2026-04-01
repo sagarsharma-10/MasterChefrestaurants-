@@ -2,8 +2,8 @@ import React, { useContext, useState } from 'react'
 import Logo from '../img/img2/masterchef-removebg-preview.png'
 import { CiSearch } from "react-icons/ci";
 import { CiShoppingCart } from "react-icons/ci";
-import { Link, Links } from 'react-router'
-import { Route, Routes } from "react-router";
+import { Link, Links } from 'react-router-dom'
+import { Route, Routes } from "react-router-dom";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { data } from '../UseContext';
 import { GiTireIronCross } from "react-icons/gi";
